@@ -1,0 +1,19 @@
+{
+  "name": "genpark-interior-point-primal-dual-barrier-skill",
+  "version": "1.0.0",
+  "description": "Logarithmic barrier interior-point method for non-linear inequality constrained convex optimization",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "interior-point",
+    "barrier-method",
+    "convex-optimization",
+    "constrained-optimization",
+    "log-barrier",
+    "central-path",
+    "python-standard-library",
+    "agent-skills",
+    "primal-dual",
+    "numerical-methods"
+  ]
+}
