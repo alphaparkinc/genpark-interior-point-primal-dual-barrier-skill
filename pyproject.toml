@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-interior-point-primal-dual-barrier-skill"
+version = "1.0.0"
+description = "Logarithmic barrier interior-point method for non-linear inequality constrained convex optimization"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
