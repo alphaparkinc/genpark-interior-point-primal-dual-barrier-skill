@@ -1,0 +1,5 @@
+name: genpark-interior-point-primal-dual-barrier-skill
+description: Logarithmic barrier interior-point method for non-linear inequality constrained convex optimization
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
